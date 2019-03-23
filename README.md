@@ -1,3 +1,3 @@
 # Memory palace
 
-### Author: CristoDai&KevinSun
+### Author: ChristoDai&KevinSun
